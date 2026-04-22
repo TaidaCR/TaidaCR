@@ -9,6 +9,7 @@ En este repositorio, encontrarás algunos de mis proyectos más destacados.
 - STS | Eclipse | Postman
 
 ### 🌟 Proyectos destacados
+- **Página web Consultoría Salqualis (https://consultoriasalqualis.cl/)**: Proyecto como freelance para la consultora sanitaria Salqualis. Astro, HTML, CSS, JS
 - **maquetaForm (https://taidacr.github.io/maquetaForm/):** Maqueta de un formulario responsive adaptado a escritorio, tablet y móvil. JS, HTML, CSS.
 - **AppProtectora (https://github.com/TaidaCR/AppProtectora)**: App para una protectora de registro de mascotas y obtención de listado #Springboot #APIRest #Swagger #Java #JPA #Lombok #Maven #H2.
 - **Games For Fun, Web de juegos clásicos (https://taidacr.github.io/GamesWeb/)**: Página web de juegos clásicos. HTML, CSS, JS
