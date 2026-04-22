@@ -1,12 +1,12 @@
 ## ¡Hola! 👋 Soy Taida
-Desarrolladora full stack apasionada por crear soluciones eficientes para mejorar la experiencia de usuarios y empresas. 
+Desarrolladora full stack (70% front, 30% back) apasionada por crear soluciones eficientes para mejorar la experiencia de usuarios y empresas. 
 En este repositorio, encontrarás algunos de mis proyectos más destacados.
 
-### 💻 Tecnologías
-- JavaScript | CSS | HTML
-- Java | Spring Boot | API Rest
-- Python | arquitectura MVC
-- STS | Eclipse | Postman
+### 💻 Ecosistema de desarrollo
+- JavaScript | CSS | HTML | Astro | React
+- ASP.NET Core | MVC | SPA | Islands Architecture
+- VSC | Microsoft VS | Figma
+- Lighthouse | WCAG 2.1/2.2
 
 ### 🌟 Proyectos destacados
 - **Página web Consultoría Salqualis (https://consultoriasalqualis.cl/)**: Proyecto como freelance para la consultora sanitaria Salqualis. Astro, HTML, CSS, JS
