@@ -9,6 +9,7 @@ En este repositorio, encontrarás algunos de mis proyectos más destacados.
 - Lighthouse | WCAG 2.1/2.2
 
 ### 🌟 Proyectos destacados
+- **Adansonii - App Web Gestión de plantas - (https://plants-app-front.vercel.app/) Nota: El backend en Render puede tardar unos segundos en despertar en la primera petición**: Proyecto personal. Stack: React, Tailwind CSS, Node.js/Express, MongoDB, Cloudinary, Pl@ntNet API. Despliegue: Vercel (Frontend) y Render (Backend).
 - **Página web Consultoría Salqualis (https://consultoriasalqualis.cl/)**: Proyecto como freelance para la consultora sanitaria Salqualis. Astro, HTML, CSS, JS
 - **maquetaForm (https://taidacr.github.io/maquetaForm/):** Maqueta de un formulario responsive adaptado a escritorio, tablet y móvil. JS, HTML, CSS.
 - **AppProtectora (https://github.com/TaidaCR/AppProtectora)**: App para una protectora de registro de mascotas y obtención de listado #Springboot #APIRest #Swagger #Java #JPA #Lombok #Maven #H2.
